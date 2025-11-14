@@ -457,6 +457,4 @@ This project is for academic purposes as part of MSc ADSA coursework.
 
 **Samiksha Dhere**
 MSc ADSA - Data Management 2
-November 2025
 
-For questions about this project, please contact through university channels.
