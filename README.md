@@ -235,7 +235,7 @@ python main_flow.py
 Go back to your browser (http://127.0.0.1:4200) and:
 
 1. Click on **"Flow Runs"** in the left sidebar
-2. You'll see your pipeline run: **"Commercial Data Pipeline - End to End"**
+2. You'll see your pipeline run: **"Restaurant Analytics Pipeline - End to End"**
 3. Click on it to see:
    - Real-time task execution
    - Task dependencies (Bronze → Silver → Gold)
