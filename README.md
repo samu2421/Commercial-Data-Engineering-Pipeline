@@ -1,4 +1,4 @@
-# Restaurant Analytics Pipeline
+# Commercial Data Engineering Pipeline
 
 A production-ready data pipeline built with Prefect that processes restaurant data through a three-layer medallion architecture. Handles CSV files and Azure Blob Storage data, performing automated ETL to generate business insights.
 
